@@ -14,11 +14,6 @@
   <a href="https://www.linkedin.com/in/vitória-canon-26869a244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-<div align="center">  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?canonvitoria=anuraghazra&show_icons=true&theme=radical)
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canonvitoria&layout=compact&hide_border=true&title_color=A67B56&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
  ### Principais Skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=orange)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
