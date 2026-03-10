@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=canonvitoria&show_icons=true&count_private=true&hide_border=true&title_color=A67B56&icon_color=A67B56&text_color=c9d1d9&bg_color=0d1117" alt="Vitória Canon github stats" /> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?canonvitoria=anuraghazra&show_icons=true&theme=radical)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canonvitoria&layout=compact&hide_border=true&title_color=A67B56&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
