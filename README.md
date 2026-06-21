@@ -16,7 +16,8 @@
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=canonvitoria&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      width="1000"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=canonvitoria&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
 
