@@ -11,17 +11,6 @@
   <a href="https://www.linkedin.com/in/vitória-canon-26869a244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"   target="_blank"></a> 
 </div>
 
-<div>
-   <img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      width="1000"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=canonvitoria&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
-
  ### Principais Skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=306998)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=0D1117)&nbsp;
